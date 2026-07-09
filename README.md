@@ -115,7 +115,6 @@ The section includes:
 - 📊 Four Statistics Cards
 - 🎯 Call-to-Action Button
 - 🎨 Modern Gradient Background
-- 📱 Responsive Layout
 
 ---
 
