@@ -37,7 +37,6 @@ DEVCONF 2026 is a fictional technology conference website designed to provide in
 - Flexbox
 - CSS Grid
 - Google Fonts
-- Font Awesome Icons
 
 ---
 
