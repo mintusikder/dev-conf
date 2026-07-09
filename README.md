@@ -6,38 +6,38 @@ A modern, responsive conference landing page built using **HTML5** and **CSS3**.
 
 ## 🌐 Live Demo
 
-**Live Site:** *https://mintusikder.github.io/dev-conf/*
-
-**GitHub Repository:** *https://github.com/mintusikder/dev-conf*
+- **Live Site:** https://mintusikder.github.io/dev-conf/
+- **GitHub Repository:** https://github.com/mintusikder/dev-conf
 
 ---
 
 ## 📌 Project Overview
 
-DEVCONF 2026 is a fictional technology conference website designed to provide information about the event, featured speakers, ticket pricing, and an exciting hackathon. The website focuses on clean UI, responsive design, and modern layout techniques using only HTML and CSS.
+DEVCONF 2026 is a fictional technology conference website designed to provide information about the event, featured speakers, ticket pricing, and an exciting hackathon. The website focuses on clean UI, and modern layout techniques using only HTML and CSS.
 
 ---
 
 ## ✨ Features
 
-* Full-screen Hero Banner with Background Image
-* Meet the Speakers Section
-* Hackathon 2026 (AI Challenge Section)
-* Pricing Plans (Standard, Pro, Team)
-* Professional Footer with Social Links
-* Clean and Semantic HTML Structure
-* Modern CSS using Flexbox and Grid Layout
+- ✅ Navigation Bar
+- ✅ Full-screen Hero Banner with Background Image
+- ✅ Meet the Speakers Section
+- ✅ Hackathon 2026 (AI Challenge Section)
+- ✅ Pricing Plans (Standard, Pro, Team)
+- ✅ Professional Footer with Social Media Links
+- ✅ Clean and Semantic HTML Structure
+- ✅ Modern CSS using Flexbox and Grid Layout
 
 ---
 
 ## 🛠️ Technologies Used
 
-* HTML5
-* CSS3
-* Flexbox
-* CSS Grid
-* Google Fonts
-* Font Awesome Icons
+- HTML5
+- CSS3
+- Flexbox
+- CSS Grid
+- Google Fonts
+- Font Awesome Icons
 
 ---
 
@@ -49,9 +49,59 @@ devconf-2026/
 ├── index.html
 ├── README.md
 ├── css/
+│   └── style.css
+│
 ├── images/
+│   ├── logo.png
+│   ├── hero.jpg
+│   ├── speaker1.png
+│   ├── speaker2.png
+│   ├── speaker3.png
+│   ├── speaker4.png
+│   ├── speaker5.png
+│   └── speaker6.png
+│
 └── screenshots/
+    ├── homepage.png
+    ├── speakers.png
+    ├── pricing.png
+    └── hackathon.png
 ```
+
+---
+
+## 🚀 Getting Started
+
+Follow these steps to run the project on your local machine.
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/mintusikder/dev-conf.git
+```
+
+### 2. Navigate to the Project Folder
+
+```bash
+cd dev-conf
+```
+
+### 3. Open the Project
+
+Open the project in **Visual Studio Code**.
+
+```bash
+code .
+```
+
+### 4. Run the Project
+
+This project is built with **HTML5** and **CSS3**, so no installation is required.
+
+You can run the project by:
+
+- Opening `index.html` directly in your browser, or
+- Using the **Live Server** extension in Visual Studio Code.
 
 ---
 
@@ -61,11 +111,11 @@ For the AI Challenge requirement, a **Hackathon 2026** section was designed to s
 
 The section includes:
 
-* Event Introduction
-* Four Statistics Cards
-* Call-to-Action Button
-* Modern Gradient Background
-* Responsive Layout
+- 🚀 Event Introduction
+- 📊 Four Statistics Cards
+- 🎯 Call-to-Action Button
+- 🎨 Modern Gradient Background
+- 📱 Responsive Layout
 
 ---
 
@@ -79,36 +129,41 @@ The section includes:
 
 ## 🎯 Assignment Requirements Covered
 
-* Navbar
-* Hero Banner
-* Meet the Speakers Section
-* AI Generated Section (Hackathon)
-* Pricing Section
-* Footer Section
-* Responsive Design
-* Semantic HTML
-* CSS Flexbox
-* CSS Grid
-* No JavaScript
-* No CSS Framework
+- Navbar
+- Hero Banner
+- Meet the Speakers Section
+- AI Generated Section (Hackathon)
+- Pricing Section
+- Footer Section
+- Semantic HTML
+- CSS Flexbox
+- CSS Grid
+- No JavaScript
+- No CSS Framework
 
 ---
 
 ## 📸 Screenshots
 
-### Homepage
+### 🏠 Homepage
 
 ![Homepage](./screenshots/homepage.png)
 
-### Speakers Section
+---
+
+### 🎤 Speakers Section
 
 ![Speakers](./screenshots/speakers.png)
 
-### Pricing Section
+---
+
+### 💰 Pricing Section
 
 ![Pricing](./screenshots/pricing.png)
 
-### Hackathon Section
+---
+
+### 🚀 Hackathon Section
 
 ![Hackathon](./screenshots/hackathon.png)
 
@@ -116,14 +171,16 @@ The section includes:
 
 ## 👨‍💻 Author
 
-**Name:** Mintu Sikder
+**Mintu Sikder**
 
-**Department:** B.Sc. in Computer Science and Engineering
-
-**Project:** DEVCONF 2026 Conference Landing Page
+- 🎓 B.Sc. in Computer Science and Engineering
+- 💻 Frontend Web Developer
+- 🌐 GitHub: https://github.com/mintusikder
 
 ---
 
 ## 📄 License
 
 This project was created for educational purposes as part of a frontend web development assignment.
+
+Feel free to clone, explore, and learn from this project.
