@@ -9,7 +9,6 @@
 
 body {
   font-family: "Inter", sans-serif;
-  background: #0f172a;
   color: #fff;
 }
 
@@ -22,7 +21,6 @@ body {
 /* Navbar */
 
 header {
-  background: #111827;
   position: sticky;
   top: 0;
   z-index: 100;
@@ -54,7 +52,7 @@ header {
 
 .nav-links a {
   text-decoration: none;
-  color: #e5e7eb;
+  color: #000000;
   font-size: 16px;
   font-weight: 500;
   transition: 0.3s;
@@ -84,9 +82,11 @@ header {
 
 /* Hero Section */
 
+
+
 .hero {
   height: 100vh;
-  background-image: url("../images/hero.jpg");
+  background-image: url("../images/banner.jpg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -162,7 +162,9 @@ header {
   max-width: 1200px;
   margin: auto;
 }
-
+.section-title{
+    color: #000000
+}
 .speakers h2 {
   text-align: center;
   font-size: 40px;
@@ -171,7 +173,7 @@ header {
 
 .subtitle {
   text-align: center;
-  color: #666;
+  color: #000000;
   margin-bottom: 50px;
 }
 
@@ -497,17 +499,33 @@ header {
   font-size: 15px;
 }
 
-@media (max-width: 768px) {
-  .navbar {
-    flex-direction: column;
-    height: auto;
-    padding: 20px 0;
-    gap: 20px;
-  }
+@media (max-width:768px){
 
-  .nav-links {
-    flex-direction: column;
-    align-items: center;
-    gap: 15px;
-  }
+    .navbar{
+        flex-wrap:wrap;
+        justify-content:center;
+        padding:20px;
+        gap:20px;
+    }
+
+    .logo{
+        width:100%;
+        display:flex;
+        justify-content:center;
+    }
+
+    .nav-links{
+        width:100%;
+        display:flex;
+        justify-content:center;
+        flex-wrap:wrap;
+        gap:20px;
+    }
+
+    .nav-btn{
+        width:100%;
+        display:flex;
+        justify-content:center;
+    }
+
 }
