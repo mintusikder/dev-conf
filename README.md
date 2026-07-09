@@ -108,6 +108,10 @@ The section includes:
 
 ![Pricing](./screenshots/pricing.png)
 
+### Hackathon Section
+
+![Hackathon](./screenshots/hackathon.png)
+
 ---
 
 ## 👨‍💻 Author
