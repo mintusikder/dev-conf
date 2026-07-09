@@ -20,12 +20,6 @@ body {
 
 /* Navbar */
 
-header {
-  position: sticky;
-  top: 0;
-  z-index: 100;
-}
-
 .navbar {
   height: 80px;
   display: flex;
